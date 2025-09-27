@@ -1,0 +1,19 @@
+.mama{
+    width: 1900px;
+    height:1080px ;
+    background-image: url(images/1674249624_catherineasquithgallery-com-p-pryamougolnik-serii-na-chernom-fone-foto-12\ 1.jpg);
+}
+.brat{
+ width:1289px ;
+ height: 85px;
+ background-color: aliceblue;   
+}
+ul{
+    list-style: none;
+    display:inline-block;
+    color: rgb(0, 0, 0);
+}
+a{
+     
+     color: rgb(231, 14, 14);   
+}
